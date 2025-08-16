@@ -1,15 +1,14 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
+- organization: Belles Bud's Rescue
+  role: Foster
+  year: 2023 - Present 
   url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  summary:  Rescue and rehabilitate dogs and provide training while marketing each foster to successfully place animals with compatible families.
 
-
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: Wikipedia
+  role: Volunteer
+  year: 2007 - 2014
+  url: https://en.wikipedia.org
+  summary: Edited emergency medicine related content including the article on Stab Wounds and Major Trauma, co-founded WikiProject Medicine, a non-profit dedicated to enhancing the free medical content on Wikipedia, logged over 6700 unique edits to articles.
